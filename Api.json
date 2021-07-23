@@ -1,0 +1,113 @@
+{
+  "items": [
+    {
+      "index":0,
+      "AthenaType": "Character",
+      "SwapFromName": "Gingerbread Raider",
+      "SwapToName": "Renegade Raider",
+      "SwapFromImage": "https://fortnite-api.com/images/cosmetics/br/CID_970_Athena_Commando_F_RenegadeRaiderHoliday/smallicon.png",
+      "SwapToImage": "https://fortnite-api.com/images/cosmetics/br/CID_028_Athena_Commando_F/smallicon.png",
+      "Info": null,
+      "data": [
+        {
+          "asset": "FortniteGame/Content/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_F_RenegadeRaiderHoliday.uasset",
+          "msg":"Swapped body...",
+          "swaps": [
+            {
+              "search":"/Game/Characters/Player/Female/Medium/Bodies/F_MED_Renegade_Raider_Holiday/Materials/M_F_Renegade_Raider_Holiday_Body.M_F_Renegade_Raider_Holiday_Body",
+              "replace":"/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/TV_20/Materials/F_MED_Commando_Body_TV20.F_MED_Commando_Body_TV20"
+            }
+          ]
+        },
+        {
+          "asset": "FortniteGame/Content/Characters/CharacterParts/Hats/CP_Hat_F_Commando_RenegadeRaiderHoliday.uasset",
+          "msg":"Swapped hat...",
+          "swaps": [
+            {
+              "search":"/Game/Characters/Player/Female/Medium/Bodies/F_MED_Renegade_Raider_Holiday/Materials/M_F_Renegade_Raider_Holiday_FaceAcc.M_F_Renegade_Raider_Holiday_FaceAcc",
+              "replace":"/Game/Accessories/Hats/Materials/Female_Commando_07_V01.Female_Commando_07_V01"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "index":1,
+      "AthenaType": "Character",
+      "SwapFromName": "Nitelite",
+      "SwapToName": "Ghoul Trooper (Pink)",
+      "SwapFromImage": "https://fortnite-api.com/images/cosmetics/br/CID_124_Athena_Commando_F_AuroraGlow/smallicon.png",
+      "SwapToImage": "https://fortnite-api.com/images/cosmetics/br/cid_029_athena_commando_f_halloween/variants/material/mat3.png",
+      "Info": null,
+      "data": [
+        {
+          "asset": "FortniteGame/Content/Athena/Heroes/Meshes/Bodies/CP_124_Body_F_AuroraGlow.uasset",
+          "msg":"Swapped body...",
+          "swaps": [
+            {
+              "search":"/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/Aurora_Glow/Materials/M_F_Med_Soldier_01_AuroraGlow.M_F_Med_Soldier_01_AuroraGlow",
+              "replace":"/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/F_MED_Zombie_Pink/Materials/F_MED_Zombie_Pink_Body.F_MED_Zombie_Pink_Body"
+            }
+          ]
+        },
+        {
+            "asset":"FortniteGame/Content/Characters/CharacterParts/Female/Medium/Heads/CP_Head_F_AuroraGlow.uasset",
+          "msg":"Swapped head...",
+          "swaps": [
+            {
+              "search":"/Game/Characters/CharacterColorSwatches/Skin/F_BLK_Luna.F_BLK_Luna",
+              "replace":"/Game/Characters/CharacterColorSwatches/Skin/F_LRG_CAU.F_LRG_CAU"
+            },
+            {
+              "search":"/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/Aurora_Glow/Materials/F_MED_Commando_Hair_01_AuroraGlow.F_MED_Commando_Hair_01_AuroraGlow",
+              "replace":"/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/F_MED_Zombie_Pink/Materials/F_MED_Ramirez_Zombie_Pink_Hair.F_MED_Ramirez_Zombie_Pink_Hair"
+            },
+            {
+              "search":"/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/Aurora_Glow/Materials/F_MED_Commando_Head_01_AuroraGlow.F_MED_Commando_Head_01_AuroraGlow",
+              "replace":"/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/F_MED_Zombie_Pink/Materials/F_MED_Ramirez_Zombie_Pink_Head.F_MED_Ramirez_Zombie_Pink_Head"
+            }
+          ]
+        },
+        {
+            "asset":"FortniteGame/Content/Characters/CharacterParts/Female/Medium/Heads/CP_Head_F_AuroraGlow.uasset",
+          "msg":"Swapped glasses...",
+          "swaps": [
+            {
+              "search":"/Game/Accessories/Glasses/Materials/MI_AuroraGlow_Glasses.MI_AuroraGlow_Glasses",
+              "replace":"/Game/"
+            },
+            {
+              "search":"/Game/Accessories/Glasses/Meshes/Female_Commando_Shades.Female_Commando_Shades",
+              "replace":"/Game/Accessories/Hats/Mesh/Ramirez_Glasses.Ramirez_Glasses"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "index":2,
+      "AthenaType": "Backpack",
+      "SwapFromName": "Blackout Bag",
+      "SwapToName": "Backup Plan",
+      "SwapFromImage": "https://fortnite-api.com/images/cosmetics/br/bid_695_streetfashioneclipse/smallicon.png",
+      "SwapToImage": "https://fortnite-api.com/images/cosmetics/br/BID_029_RetroGrey/smallicon.png",
+      "Info": null,
+      "data": [
+        {
+          "asset": "FortniteGame/Content/Characters/CharacterParts/Backpacks/CP_Backpack_StreetFashionEclipse.uasset",
+          "msg":"Swapped backpack...",
+          "swaps": [
+            {
+              "search":"/Game/Accessories/FORT_Backpacks/F_MED_Street_Fashion_Red/Meshes/F_MED_Street_Fashion_Red_Pack.F_MED_Street_Fashion_Red_Pack",
+              "replace":"/Game/Accessories/FORT_Backpacks/Mesh/Male_Commando_02.Male_Commando_02"
+            },
+            {
+              "search":"/Game/Accessories/FORT_Backpacks/F_MED_Street_Fashion_Red/Skins/Eclipse/Materials/F_MED_StreetFashionEclipse_Backpack.F_MED_StreetFashionEclipse_Backpac",
+              "replace":"/Game/Accessories/FORT_Backpacks/Materials/Male_Commando_02_StealthRaptor.Male_Commando_02_StealthRaptor"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
